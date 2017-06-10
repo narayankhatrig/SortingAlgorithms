@@ -1,2 +1,2 @@
 # SortingAlgorithms
-The demonstration of sorting algorithms in java
+Run time calculation for different sorting algorithms 
